@@ -1,10 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <a href="https://github.com/Luquet4">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá!%20Eu%20sou%20Lucas%20Gabriel;Desenvolvedor%20Full%20Stack;&font=Fira%20Code&center=true&width=600&height=50&color=00FFAA&vCenter=true&pause=1000&size=24" />
-  </a>
-</p>
-
 <!-- TECH SKILLS BADGES --> 
 ## 🚀 Tech Skills
 
