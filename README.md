@@ -1,6 +1,6 @@
 <!-- TECH SKILLS BADGES --> 
 ## 🚀 Tech Skills
-
+Estagiário do Vitor e do Rafael
 <div style="display: inline_block">
 
 ### 🎨 Front-End
