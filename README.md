@@ -1,6 +1,5 @@
 <!-- TECH SKILLS BADGES --> 
 ## 🚀 Tech Skills
-Estagiário do Vitor e do Rafael
 <div style="display: inline_block">
 
 ### 🎨 Front-End
@@ -32,8 +31,8 @@ Estagiário do Vitor e do Rafael
 
 <div align="center">
   <a href="https://github.com/Luquet4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luquet4&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luquet4&layout=compact&langs_count=7&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVolp&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVolp&layout=compact&langs_count=7&theme=radical" />
   </a>
 </div>
 
