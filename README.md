@@ -23,6 +23,9 @@
 ### ⚙️ DevOps
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
+### 🎨 UI/UX
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 </div>
 
 ---
@@ -30,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Luquet4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVolp&show_icons=true&theme=radical" />
+  <a href="https://github.com/LucasVolp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVolp&layout=compact&theme=vision-friendly-dark" alt="Top Langs Lucas" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVolp&layout=compact&langs_count=7&theme=radical" />
   </a>
 </div>
@@ -46,6 +49,9 @@
   </a>
   <a href="mailto:lucasgabrielvmb@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a>
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=LucasVolp&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor Badge">
   </a>
 </div>
 
