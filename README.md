@@ -17,7 +17,6 @@
 ### 🗄️ Databases
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=data:image/svg+xml;base64,[logo]" alt="Neon (custom)">
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 
 ### ⚙️ DevOps
